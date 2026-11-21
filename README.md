@@ -1,0 +1,1 @@
+A low-cost, multilingual sentiment analysis tool that helps users understand opinions across languages. It analyzes text to identify sentiment and emotional tone, making insights more accessible without expensive language-specific services.
